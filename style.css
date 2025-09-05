@@ -1,0 +1,57 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+body{
+ background: linear-gradient(90deg, #7f2e8f 0%,  #0c0307 100%);
+}
+.logo{
+    font-size: medium;
+    margin-top: 15px;
+    width: 188;
+    height: 48;
+    opacity: 1;
+}
+.color{
+    font-family: Poppins;
+font-weight: 400;
+font-style:normal;
+font-size: 18px;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: center;
+color: #fff;
+row-gap: 32px;
+}
+.color:hover{
+    color: #fffffffd;
+}
+.boldcolor{
+    font-weight: 600;
+  font-style: Bold;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #ffffffe7;
+    row-gap: 32px;
+}
+.boldcolor:hover{
+    color: #fffffffd;
+}
+
+.circle{
+    width: 751.9999389648438;
+height: 751.9999389648438;
+top: 92px;
+left: -264px;
+opacity: 1;
+border-radius: 10071.43px;
+}
+.iPhone{
+    width: 288px;
+ margin: 0 auto;
+ height: auto;
+ padding-top: 29px;
+}
